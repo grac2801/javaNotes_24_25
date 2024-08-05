@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class U1_L3_DataTypes
 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args)
 	{
 		//Special formatting printf
