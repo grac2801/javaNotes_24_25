@@ -42,6 +42,34 @@ public class U2_L5_constructors
 		RegularPolygon rp1 = new RegularPolygon(6, 5);
 		System.out.println(rp1);
 		
+		/*
+		* CIRCLES
+		* 1. Instantiate a new circle with a radius of 15.879856565 ft. (air balloon)
+		* print it to make sure you have done it correctly
+		* get the circumference and the area for this circle. Print them
+		* to the hundredth value after the decimal point.
+		* The balloon loses some gas, therefore deflating.
+		* Now change the radius to 12.45458724 ft and get the circumference
+		* and area values again.
+		*
+		* RECTANGLES
+		* instantiate a 1x1 ft and 5x5 ft rectangles. Additionally, a 6x4 rectangle
+		* as well.
+		* Calculate the area of each and print to the hundredth value after the
+		* decimal point.
+		* Change the width of the second rectangle to 7.5 ft.
+		* How much more area did you gain with this change from the original area
+		* value?
+		* Change the W and L of the third rectangle to 5x3.
+		* Print a statement displaying the area, length, perimeter and width of this
+		* new object.
+		*
+		*
+		* POLYGONS
+		* Instantiate a triangle with all sides being 5 ft in length.
+		* Make it a pentagon with same length of sides. [Shape A]
+		*
+		*/
 		
 	}
 
