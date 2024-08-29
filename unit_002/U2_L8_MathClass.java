@@ -89,7 +89,7 @@ public class U2_L8_MathClass
 		
 		
 		
-//		scan.close();
+		scan.close();
 		
 		
 		
