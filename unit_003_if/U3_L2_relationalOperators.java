@@ -44,8 +44,8 @@ public class U3_L2_relationalOperators
 			String nameOfAthlete = input.nextLine();
 			System.out.println("What is the the nationality of the athlete? ");
 			String nationalityAthlete = input.nextLine();
-			System.out.printf("The length of the jump is: %.2f%nThe name is %s%nShe/He is from %s", lengthOfJump,
-					nameOfAthlete, nationalityAthlete);
+			System.out.printf("The length of the jump is: %.2f%nThe name is %s%nShe/He is from %s", 
+					lengthOfJump, nameOfAthlete, nationalityAthlete);
 		}
 
 		if (lengthOfJump < 8.95)
