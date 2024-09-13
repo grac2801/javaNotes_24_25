@@ -7,25 +7,25 @@ public class U4_L1_whileLoops
 
 	public static void main(String[] args)
 	{
-//		System.out.println("********************");
-//		System.out.println("Program 1: Positive numbers");
-//		System.out.println("********************");
-//		
+		System.out.println("********************");
+		System.out.println("Program 1: Positive numbers");
+		System.out.println("********************");
+		
 		Scanner scan = new Scanner(System.in);
-//		System.out.println("Enter a positive number: ");
-//		int num = scan.nextInt(); //initialize
-//		int counter = 1;
-//		
-//		while(num < 0) //test
-//		{
-//			System.out.println("You entered an incorrect value. Try again");
-//			System.out.println("Enter a positive number: ");
-//			num = scan.nextInt();
-//			counter++;//move it forward
-//		}
-//		
-//		System.out.println(num + " is a positive number.");
-//		System.out.println("It only took you " + counter + " times");
+		System.out.println("Enter a positive number: ");
+		int num = scan.nextInt(); //initialize
+		int counter = 1;
+		
+		while(num < 0) //test
+		{
+			System.out.println("You entered an incorrect value. Try again");
+			System.out.println("Enter a positive number: ");
+			num = scan.nextInt();
+			counter++;//move it forward
+		}
+		
+		System.out.println(num + " is a positive number.");
+		System.out.println("It only took you " + counter + " times");
 		
 		
 		
@@ -38,7 +38,7 @@ public class U4_L1_whileLoops
 		 * add the total for all grades input
 		 * get average
 		 */
-		
+		//Coding courtesy of super Sebastian
 		double gradesum = 0;
 		double grade = 0;
 		int gradenum = 0;
