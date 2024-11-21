@@ -81,21 +81,7 @@ public class U6_L3_ArraysOfStrings
 			System.out.println(y + z);
 			
 		}
-		
-		
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
-=======
-		
-				
-		
-		
-		
-		
->>>>>>> 866909e570838f48f08958b855708850f36bd3ff
->>>>>>> 21dbb7c4ba51687a89a946a7d879d8ee6c86d071
 		scan.close();
 	}//end of main
 
