@@ -9,35 +9,35 @@ public class U6_L3_ArraysOfStrings
 
 	public static void main(String[] args)
 	{
-//		/*
-//		 * Instantiate a new int array, call it numbers
-//		 * randomize 25 integers between 1 - 100 inclusive
-//		 * print it out using the for loop
-//		 */
-//		int[] numbers = new int[25];
-//		Random rand = new Random();
-//		for(int i = 0; i < 25; i++)
-//		{
-//			numbers[i] = (int)(rand.nextInt(100) + 1);
-//		}
-//		for (int i = 0; i < numbers.length; i++)
-//		{
-//			System.out.print((i + 1) + ": " + numbers[i] + "\n");
-//			
-//		}
-//		
-//		
-//		String[] words = new String[3];
-//		words[0] = "Hello";
-//		words[1] = "my";
-//		words[2] = "friend";
-//		System.out.println(Arrays.toString(words));
-//		
-//		for (int i = 0; i < words.length; i++)
-//		{
-//			System.out.println(words[i]);
-//			
-//		}
+		/*
+		 * Instantiate a new int array, call it numbers
+		 * randomize 25 integers between 1 - 100 inclusive
+		 * print it out using the for loop
+		 */
+		int[] numbers = new int[25];
+		Random rand = new Random();
+		for(int i = 0; i < 25; i++)
+		{
+			numbers[i] = (int)(rand.nextInt(100) + 1);
+		}
+		for (int i = 0; i < numbers.length; i++)
+		{
+			System.out.print((i + 1) + ": " + numbers[i] + "\n");
+			
+		}
+		
+		
+		String[] words = new String[3];
+		words[0] = "Hello";
+		words[1] = "my";
+		words[2] = "friend";
+		System.out.println(Arrays.toString(words));
+		
+		for (int i = 0; i < words.length; i++)
+		{
+			System.out.println(words[i]);
+			
+		}
 		
 		
 		/*
@@ -83,6 +83,7 @@ public class U6_L3_ArraysOfStrings
 		}
 		
 		
+
 		scan.close();
 	}//end of main
 
