@@ -7,8 +7,11 @@ public class WithoutTen_program
 
 	public static void main(String[] args)
 	{
-		int[] nums = new int[]{1, 10, 10, 2};
+		int[] nums = new int[]{1, 10, 8, 5, 10, 1, 2};
 		System.out.println(Arrays.toString(nums));
+		withoutTen(nums);
+		System.out.println(Arrays.toString(nums));
+		
 	}
 
 	public static int[] withoutTen(int[] nums)
