@@ -45,6 +45,13 @@ public class U8_L1_2DarrayIntro
 		}
 		
 		
+		//STUDENT ACTIVITY
+		//Print only the second column
+		
+		
+		
+		
+		
 
 	}
 
