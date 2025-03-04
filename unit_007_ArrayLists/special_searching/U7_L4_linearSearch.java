@@ -1,7 +1,6 @@
 package unit_007_ArrayLists.special_searching;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class U7_L4_linearSearch
